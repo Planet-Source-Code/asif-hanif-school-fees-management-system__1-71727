@@ -1,0 +1,127 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\d\imran2\VB\6TO7\newschool\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+E:\WINDOWS\system32\arpro2.dll=
+E:\WINDOWS\system32\MenuBar.ocx=
+E:\WINDOWS\system32\ProgressBar.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+E:\WINDOWS\system32\RICHTX32.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\d\imran2\VB\6TO7\newschool\school.exe=Yes
+E:\WINDOWS\system32\msvbvm60.dll=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+E:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+E:\WINDOWS\system32\MSDATGRD.OCX=Yes
+E:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+E:\WINDOWS\system32\MSBIND.DLL=Yes
+E:\WINDOWS\system32\tidate8.ocx=Yes
+E:\WINDOWS\system32\tishare8.dll=Yes
+E:\WINDOWS\system32\tibase8.dll=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+E:\WINDOWS\system32\VB6STKIT.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\WINDOWS\system32\mscomctl.ocx=Yes
+E:\WINDOWS\system32\TABCTL32.OCX=Yes
+E:\WINDOWS\system32\tinumb8.ocx=Yes
+E:\WINDOWS\system32\arpro2.dll=Yes
+E:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+E:\WINDOWS\system32\MenuBar.ocx=Yes
+E:\WINDOWS\system32\ProgressBar.ocx=Yes
+E:\WINDOWS\system32\RICHTX32.OCX=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\d\imran2\VB\6TO7\newschool\school.exe=$(AppPath)
+E:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+E:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+E:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+E:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+E:\WINDOWS\system32\tidate8.ocx=$(WinSysPath)
+E:\WINDOWS\system32\tishare8.dll=$(WinSysPathSysFile)
+E:\WINDOWS\system32\tibase8.dll=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+E:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+E:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+E:\WINDOWS\system32\tinumb8.ocx=$(WinSysPath)
+E:\WINDOWS\system32\arpro2.dll=$(WinSysPath)
+E:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+E:\WINDOWS\system32\MenuBar.ocx=$(WinSysPath)
+E:\WINDOWS\system32\ProgressBar.ocx=$(WinSysPath)
+E:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\d\imran2\VB\6TO7\newschool\school.exe=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=School
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\d\imran2\VB\6TO7\newschool\Package
+ProjectFolder=D:\d\imran2\VB\6TO7\newschool
+ServerSideCab=
+File1=D:\d\imran2\VB\6TO7\newschool\Package\setup.exe
+File2=D:\d\imran2\VB\6TO7\newschool\Package\Setup.Lst
+File3=D:\d\imran2\VB\6TO7\newschool\Package\school.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=School
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|School]
+Icon1=school.exe
+Title1=School
+StartIn1=$(AppPath)
+Key1=Icon1
